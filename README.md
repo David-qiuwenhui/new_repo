@@ -3,4 +3,7 @@ a new repo for testing
 update for javascript
 
 create a new branch(dev)
-merge main and dev
+
+
+## create new branch 
+feat/init base -> main
