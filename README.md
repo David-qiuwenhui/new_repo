@@ -4,7 +4,7 @@ update for javascript
 
 create a new branch(dev)
 
-## 测试标签 🏷
+## 测试标签 🚩
 v1.0.1 tag
 
 
